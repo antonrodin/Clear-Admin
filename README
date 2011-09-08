@@ -1,0 +1,16 @@
+- Clear Admin 
+- Ver: 0.1
+********************
+
+2011 (c) Anton Zekeriev Rodin under the M.I.T. Licence. 
+
+Codeigniter licence: licence-codeigniter.txt
+Clear Admin licence: licence-clearadmin.txt
+
+This is Admin management panel template developed with Codeigniter 2.0.3. ¿Why have i developed this application? Because it is a good starting point. It have a clear xhtml and css template, simple validation and user management. I am going to keep it simple.
+
+Features:
+
+1. Template developed with www.w3.org with xhtml, css and litle bit of jquery
+2. User controller and model included than add, update and delete users
+3. Works fine with Explorer 9, Chrome 13 and Firefox 4

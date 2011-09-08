@@ -1,0 +1,7 @@
+#Dont forget to put AllowOverride to On
+#You must establish that setting in httpd.conf
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteCond $1 !^(index\.php|public|robots\.txt)
+    RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
